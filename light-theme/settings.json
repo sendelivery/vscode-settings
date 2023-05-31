@@ -1,0 +1,22 @@
+{
+  "redhat.telemetry.enabled": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.tabSize": 2,
+  "eslint.format.enable": true,
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.zoomLevel": 1,
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground":  "#fffffb",
+    "activityBar.activeBorder": "#fff27a",
+    "activityBar.activeFocusBorder": "#ff0000",
+    "sideBar.background": "#fffffb",
+  }
+}
+
